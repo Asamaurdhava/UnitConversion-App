@@ -78,8 +78,7 @@ The core conversion logic utilizes Swift's `Measurement` framework, ensuring:
 
 ## Author
 
-**Vishesh Singh Rajput**
-*Created on 27/05/25*
+**Vishesh Singh Rajput aka specstan**
 
 ## License & Usage
 
