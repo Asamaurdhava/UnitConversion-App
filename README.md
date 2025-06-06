@@ -76,6 +76,10 @@ The core conversion logic utilizes Swift's `Measurement` framework, ensuring:
 - **Maintainability:** Clean, readable code structure
 - **Extensibility:** Easy to add new units or measurement types
 
+## Acknowledgements
+
+This project is based on Paul Hudson's 100 Days of SwiftUI course. All credit for the original concept, structure, and educational content goes to Paul Hudson and the Hacking with Swift community. This repository is intended solely for personal learning and demonstration.
+
 ## Author
 
 **Vishesh Singh Rajput aka specstan**
